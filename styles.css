@@ -1,2 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0b0c10;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
 
-/* Your CSS Code here. */
+header {
+    background-color: #1f2833;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #45a29e;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section,
+aside {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #1f2833;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #45a29e;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
