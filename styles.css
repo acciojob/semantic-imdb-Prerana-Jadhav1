@@ -14,8 +14,8 @@ header {
 
 nav {
     background-color: #45a29e;
-    padding: 10px;
     text-align: center;
+    padding: 10px;
 }
 
 nav a {
@@ -25,13 +25,10 @@ nav a {
     font-weight: bold;
 }
 
-main {
-    padding: 20px;
-}
-
+summary,
 section,
 aside {
-    margin: 20px 0;
+    margin: 20px;
     padding: 15px;
     background-color: #1f2833;
     border-radius: 8px;
